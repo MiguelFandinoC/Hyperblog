@@ -6,5 +6,7 @@ Un blog increible para el curso de Git y Github
 - Comandos de Git
 - Flujo de trabajo en Github
 - Buenas practicas de programacion
+- Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
 
 >Curso creado por platzi
